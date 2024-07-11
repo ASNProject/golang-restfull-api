@@ -18,8 +18,8 @@
 ```
 go run main.go
 ```
-Open : [Localhost][http://localhost:3000]
+Open : [Localhost](http://localhost:3000)
 
 ## Referensi
-[Santri Koding][https://santrikoding.com/tutorial-restful-api-golang-1-membuat-project-golang
-]
+[Santri Koding](https://santrikoding.com/tutorial-restful-api-golang-1-membuat-project-golang
+)
