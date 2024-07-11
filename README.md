@@ -14,12 +14,12 @@
  limitations under the License.
 -->
 
-## Run Project
+### Run Project
 ```
 go run main.go
 ```
 Open : [Localhost](http://localhost:3000)
 
-## Referensi
+### Referensi
 [Santri Koding](https://santrikoding.com/tutorial-restful-api-golang-1-membuat-project-golang
 )
