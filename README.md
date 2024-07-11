@@ -13,6 +13,16 @@
  See the License for the specific language governing permissions and
  limitations under the License.
 -->
+### Terminal
+- Membuat project go
+```
+go mod init "nameproject"
+```
+
+- Installasi gin (web framework)
+```
+go get -u github.com/gin-gonic/gin
+```
 
 ### Run Project
 ```
