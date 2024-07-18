@@ -51,6 +51,11 @@ body {
 }
 ```
 
+- get data by id (GET)
+```
+http://localhost:3000/api/post/'id'
+```
+
 ### Referensi
 [Santri Koding](https://santrikoding.com/tutorial-restful-api-golang-1-membuat-project-golang
 )
