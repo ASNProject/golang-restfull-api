@@ -35,6 +35,22 @@ go run main.go
 ```
 Open : [Localhost](http://localhost:3000)
 
+#### Router API
+- get all data (GET)
+```
+http://localhost:3000/api/post
+```
+
+- post data (POST)
+```
+http://localhost:3000/api/post
+
+body {
+    "title": "",
+    "content": "" 
+}
+```
+
 ### Referensi
 [Santri Koding](https://santrikoding.com/tutorial-restful-api-golang-1-membuat-project-golang
 )
