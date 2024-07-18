@@ -56,6 +56,16 @@ body {
 http://localhost:3000/api/post/'id'
 ```
 
+- update data by id (PUT)
+```
+http://localhost:3000/api/post/id
+
+body {
+    "title": "",
+    "content": "" 
+}
+```
+
 ### Referensi
 [Santri Koding](https://santrikoding.com/tutorial-restful-api-golang-1-membuat-project-golang
 )
