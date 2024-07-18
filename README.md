@@ -24,6 +24,11 @@ go mod init "nameproject"
 go get -u github.com/gin-gonic/gin
 ```
 
+- Installasi GORM - Golang Object-Realtional Mapping (library database)
+```
+go get -u gorm.io/gorm gorm.io/diver/mysql
+```
+
 ### Run Project
 ```
 go run main.go
