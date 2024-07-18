@@ -35,6 +35,9 @@ func main() {
 	// membuat route update post
 	router.PUT("/api/post/:id", controllers.UpdatePost)
 
+	// membuat route delete post
+	router.DELETE("/api/post/:id", controllers.DeletePost)
+
 	//mulai server dengan port 3000
 	router.Run(":3000")
 }

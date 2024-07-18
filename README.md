@@ -66,6 +66,11 @@ body {
 }
 ```
 
+- delete data by id (DELETE)
+```
+http://localhost:3000/api/post/'id'
+```
+
 ### Referensi
 [Santri Koding](https://santrikoding.com/tutorial-restful-api-golang-1-membuat-project-golang
 )
